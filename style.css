@@ -7,7 +7,7 @@ h2 {
     font-style: italic;
 }
 .menu li{
-    color: brown
+    color: rgb(15, 9, 9)
 }
 .menu a {
    color: brown 
@@ -16,6 +16,8 @@ h2 {
     display: flex;
     flex-direction: column;
 }
+
+
 .galeria{
     display: flex;
     justify-content: center;
